@@ -1,6 +1,6 @@
 # dgj-22-sigdump-v1
 
-## Monitoring and Transcribing Russian Radio Communications.
+## Monitoring, Archiving and Transcribing Russian Radio Communications During the Ukraine Russia Conflict.
 
 ### Join our Element chat room for live updates and discussion:
 
