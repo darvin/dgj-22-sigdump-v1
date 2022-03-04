@@ -1,9 +1,11 @@
-# dgj-22-sigdump-v1
+# DGJ-22 SIGDUMP
 
-## Monitoring, Archiving and Transcribing Russian Radio Communications During the Ukraine Russia Conflict.
+## Monitoring, Archiving and Transcribing Open Russian Radio Communications During the Ukraine Russia Conflict.
 
-### Join our Element chat room for live updates and discussion:
+### Join our Element chat room for live updates, discussion and suggestions:
 
 https://matrix.to/#/#dgj-22-pub-sigint:matrix.org
 
-### Translation done by DeepL.
+#### Monitoring and recording via WebSDR
+#### Transcription by Sonix.
+#### Translation by DeepL.
