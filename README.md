@@ -1,6 +1,6 @@
 # DGJ-22 SIGDUMP
 
-## Monitoring, Archiving and Transcribing Open Russian Radio Communications During the Ukraine Russia Conflict
+## Monitoring, Archiving and Transcribing Open Russian Radio Communications During the Ukraine Russia War
 
 ### Join our Element chat room for live updates, discussion and suggestions:
 
