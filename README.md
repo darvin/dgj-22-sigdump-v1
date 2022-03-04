@@ -5,3 +5,5 @@
 ### Join our Element chat room for live updates and discussion:
 
 https://matrix.to/#/#dgj-22-pub-sigint:matrix.org
+
+### Translation done by DeepL.
