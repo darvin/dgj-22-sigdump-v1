@@ -4,7 +4,7 @@
 
 #### Transcripts in Russian and English PDF, audio in WAV
 
-## Join our Element chat room for live updates, discussion and suggestions:
+### Join our Element chat room for live updates, discussion and suggestions:
 
 https://matrix.to/#/#dgj-22-pub-sigint:matrix.org
 
