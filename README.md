@@ -12,7 +12,7 @@ https://matrix.to/#/#dgj-22-pub-sigint:matrix.org
 
 ## Join our Clubhouse room for discussion and analysis:
 
-https://www.clubhouse.com/room/xBl0AV3Z?utm_medium=ch_room_t&utm_campaign=-7TLMFW1a4CDuDiFQDnyEA-90573
+https://www.clubhouse.com/room/xBl0AV3Z
 
 ## Tools
 
