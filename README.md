@@ -1,4 +1,4 @@
-# Radio DGJ-22 SIGDUMP
+# Radio DGJ-22
 
 # Monitoring, Archiving and Transcribing Open Russian Radio Communications During the Ukraine Russia War
 
